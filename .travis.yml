@@ -2,6 +2,9 @@ language: node_js
 node_js:
   # - "12" Doesn't work yet - requires Jasmine updates/replacement
   # - "10" Doesn't work yet - requires Jasmine updates/replacement
+  - "12"
+  - "11"
+  - "10"
   - "8"
   - "6"
   - "4"
